@@ -27,9 +27,8 @@ An **interactive graph visualization tool** that allows users to **create graphs
 
 ## ⚡ Installation & Setup
 
-1. **Clone the repository**:
+1. **Clone the repository**: clone first
    ```sh
-   git clone https://github.com/your-username/graph-visualization.git
    cd graph-visualization
    ```
 
